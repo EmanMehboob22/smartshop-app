@@ -3,7 +3,7 @@
 SmartShop AI is a lightweight, AI-assisted Point of Sale (POS) system designed for small shops.  
 It allows shopkeepers to manage inventory, record sales, track expiry dates, generate PDF receipts, and get smart alerts — all from desktop or mobile.
 
-🔗 **Live App**: [smartshop.streamlit.app](https://smartshop.streamlit.app)
+🔗 **Live App**: https://smartshop-app-6flxwxb5rqtxuiohspvfpa.streamlit.app/
 
 ---
 
